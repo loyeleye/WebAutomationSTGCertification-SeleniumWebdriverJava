@@ -3,6 +3,7 @@
     <test name="challenge1">
         <classes>
             <class name="challenge1.challenge1" />
+            <class name="challenge2.challenge2" />
         </classes>
     </test>
 </suite>
